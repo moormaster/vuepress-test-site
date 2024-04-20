@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-test-site",
+  "version": "0.0.1",
+  "description": "vuepress test site for testing github pages upload action",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "https://github.com/moormaster/vuepress-test-site.git/vuepress-test-site",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
